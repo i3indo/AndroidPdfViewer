@@ -193,7 +193,7 @@ class PdfFile {
             }
         }
         int spacing = (spacingPx * (pageSizes.size() - 1)) + spacingTopPx ;
-        documentLength = length+spacingTopPx;
+        documentLength = length+spacing;
     }
 
     private void preparePagesOffset() {
