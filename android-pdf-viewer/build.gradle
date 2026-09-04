@@ -93,7 +93,7 @@ afterEvaluate {
                         }
                     }
                     scm {
-                        url = "https://github.com/xposed73/AndroidPdfViewer"
+                        url = "https://github.com/i3indo/AndroidPdfViewer"
                     }
                 }
             }

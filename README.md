@@ -25,5 +25,5 @@ dependencyResolutionManagement {
 2) Add the dependency:
 
 ```gradle
-implementation 'com.github.xposed73:AndroidPdfViewer:v1.0.0'
+
 ```
